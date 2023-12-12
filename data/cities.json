@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Atisbo",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2023-12-12T09:17:27.151Z",
+      "notes": "Dry Trip",
+      "position": {
+        "lat": "8.40107860810974",
+        "lng": "3.342507714085685"
+      },
+      "id": 4238
+    }
+  ]
+}
